@@ -14,13 +14,44 @@ I'm passionate about learning how video games are created, from programming and 
 🚀 Looking forward to developing my own games and improving my skills
 📚 Always learning something new
 
-## 
-### 🌍 Languages
-Spanish: Native  
-Catalan: Native  
-Armenian: Native  
-English: B2 not certificated  
-French: A2  
+##
+### 🛠️ Skills
+#### 💻 Operating Systems
+
+I have experience working with Windows and Linux (Ubuntu and Zorin),  
+and I am developing my skills in operating system management and configuration.
+
+#### 🔧 Hardware & Maintenance
+
+I have intermediate-level experience with computer hardware,  
+including disassembling PCs, identifying components, inspecting equipment,  
+and performing basic hardware troubleshooting.
+
+#### 🖥️ Software & User Management
+
+I can install software, manage user accounts and permissions,  
+and use productivity tools such as Microsoft Office and LibreOffice.
+
+#### 🌐 Networking
+
+I have a basic understanding of computer networking concepts and use  
+Cisco Packet Tracer to explore network configurations and learn how networks work.
+
+#### 👨‍💻 Programming & Web Development
+
+I have basic knowledge of HTML and CSS for web development, as well as Python and Java programming.  
+I have also used Scratch to learn programming fundamentals and logical thinking.
+
+#### 🧰 Tools & Technologies
+
+I use Git and GitHub for version control and project management. I also work with Visual Studio Code,  
+VirtualBox, VMware, Cisco Packet Tracer, and command-line tools such as CMD, PowerShell, and the Linux Terminal.
+
+#### 🌍 English
+
+I have an intermediate level of English, which allows me to understand technical documentation,  
+follow tutorials, and continue learning about new technologies.
+
 ##
 ### 💼 Internship Experience
 #### 🏢 Develokat
@@ -39,6 +70,14 @@ IT Intern · september 2026 – Present
 - Installed and configured software applications.
 - Assisted with laptop troubleshooting and maintenance.
 - Helped ensure computers were properly configured and ready to use.
+
+## 
+### 🌍 Languages
+Spanish: Native  
+Catalan: Native  
+Armenian: Native  
+English: B2 not certificated  
+French: A2  
 
 ##
 ### 📚 Education
