@@ -8,28 +8,33 @@ I'm currently a Microcomputer Systems and Networks (SMX) student interested in t
 I have gained practical experience through internships and academic projects, where I've had the opportunity to apply my knowledge and develop new technical skills.
 
 - 🎓 Currently studying Microcomputer Systems and Networks (SMX)  
-- 💼 Internship experience at Alexandre Satorras  
+- 💼 Internship experience at Develokat and Alexandre Satorras  
 - 🌱 Currently learning about computer systems, networking, and programming  
 - 💻 Interested in IT support, system administration, and networking  
 - 🚀 Looking forward to gaining more experience and improving my skills  
 - 📚 Always learning something new  
 ## 
-### 🛠️ Technologies & Tools
 ### Languages
 Spanish: Native  
 Catalan: Native  
 Armenian: Native  
 English: B2 not certificated  
 French: A2  
+##
+### 📚 Education
 
-### Systems & Networking
+🎓 Microcomputer Systems and Networks (SMX)
+Escola Pia — 2025 -> Present
 
+Throughout my studies, I have gained knowledge and worked on projects involving:
 
-
-
-
-
-### Tools & Technologies
+Computer Hardware and Maintenance
+Operating Systems
+Computer Networks
+Network Configuration and Troubleshooting
+Basic Programming
+Database Fundamentals
+Technical Support and IT Troubleshooting
 
 
 
