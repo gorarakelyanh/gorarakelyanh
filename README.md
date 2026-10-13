@@ -13,6 +13,28 @@ I have gained practical experience through internships and academic projects, wh
 - 💻 Interested in IT support, system administration, and networking  
 - 🚀 Looking forward to gaining more experience and improving my skills  
 - 📚 Always learning something new  
+## 
+### 🛠️ Technologies & Tools
+### Languages
+Spanish: Native  
+Catalan: Native  
+Armenian: Native  
+English: B2 not certificated  
+French: A2  
+
+### Systems & Networking
+
+
+
+
+
+
+### Tools & Technologies
+
+
+
+
+
 <!--
 
 Here are some ideas to get you started:
