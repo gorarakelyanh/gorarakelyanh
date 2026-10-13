@@ -14,7 +14,7 @@ I have gained practical experience through internships and academic projects, wh
 - 🚀 Looking forward to gaining more experience and improving my skills  
 - 📚 Always learning something new  
 ## 
-### Languages
+### 🌍 Languages
 Spanish: Native  
 Catalan: Native  
 Armenian: Native  
@@ -23,18 +23,17 @@ French: A2
 ##
 ### 📚 Education
 
-🎓 Microcomputer Systems and Networks (SMX)
-Escola Pia — 2025 -> Present
+#### 🎓 Microcomputer Systems and Networks (SMX) Escola Pia — 2025 -> Present
 
-Throughout my studies, I have gained knowledge and worked on projects involving:
+Throughout my studies, I have gained knowledge and worked on projects involving:  
 
-Computer Hardware and Maintenance
-Operating Systems
-Computer Networks
-Network Configuration and Troubleshooting
-Basic Programming
-Database Fundamentals
-Technical Support and IT Troubleshooting
+- Computer Hardware and Maintenance  
+- Operating Systems  
+- Computer Networks  
+- Network Configuration and Troubleshooting  
+- Basic Programming  
+- Database Fundamentals  
+- Technical Support and IT Troubleshooting  
 
 
 
