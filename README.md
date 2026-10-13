@@ -54,8 +54,7 @@ follow tutorials, and continue learning about new technologies.
 
 ##
 ### 💼 Internship Experience
-#### 🏢 Develokat
-![develokat](imatges/alexandre-satorras.jpg)  
+#### 🏢 Develokat 
 IT Intern · march 2026 – may 2026
 
 - Disassembled computer equipment and components.
