@@ -3,16 +3,17 @@
 
 ### 🧑‍💻 About Me
 
-I'm currently a Microcomputer Systems and Networks (SMX) student interested in technology, computer systems, networking, and programming.
+I'm currently a Microcomputer Systems and Networks (SMX) student with a strong interest in technology, computer systems, and especially video game development.
 
-I have gained practical experience through internships and academic projects, where I've had the opportunity to apply my knowledge and develop new technical skills.
+I'm passionate about learning how video games are created, from programming and game mechanics to design and the technologies behind them. I'm looking forward to expanding my knowledge and exploring new opportunities in the world of game development.
 
-- 🎓 Currently studying Microcomputer Systems and Networks (SMX)  
-- 💼 Internship experience at Develokat and Alexandre Satorras  
-- 🌱 Currently learning about computer systems, networking, and programming  
-- 💻 Interested in IT support, system administration, and networking  
-- 🚀 Looking forward to gaining more experience and improving my skills  
-- 📚 Always learning something new  
+🎓 Currently studying Microcomputer Systems and Networks (SMX)
+🎮 Passionate about video game development
+🌱 Interested in learning about game engines, programming, and game design
+💻 Exploring different technologies and tools
+🚀 Looking forward to developing my own games and improving my skills
+📚 Always learning something new
+ 
 ## 
 ### 🌍 Languages
 Spanish: Native  
