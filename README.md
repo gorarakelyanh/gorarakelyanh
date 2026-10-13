@@ -95,4 +95,4 @@ Throughout my studies, I have gained knowledge and worked on projects involving:
 ### 📫 Contact Me
 #### Email: gorarakelyan152@gmail.com  
 #### Phone number: +34 631 873 948
-#### Linkedin: https://www.linkedin.com/in/gor-arakelyan-13916a3b6/
+#### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gor-arakelyan-13916a3b6/)
