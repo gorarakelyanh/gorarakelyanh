@@ -55,7 +55,7 @@ follow tutorials, and continue learning about new technologies.
 ##
 ### 💼 Internship Experience
 #### 🏢 Develokat
-
+![develokat](imatges/alexandre-satorras.jpg)  
 IT Intern · march 2026 – may 2026
 
 - Disassembled computer equipment and components.
@@ -63,7 +63,7 @@ IT Intern · march 2026 – may 2026
 - Performed basic PC checks to verify hardware functionality.
 - Assisted with computer hardware handling and inspection.
 #### 🏢 Alexandre Satorras
-
+![centre](imatges/alexandre-satorras.jpg)  
 IT Intern · september 2026 – Present
 
 - Diagnosed laptop hardware and software issues.
@@ -97,19 +97,3 @@ Throughout my studies, I have gained knowledge and worked on projects involving:
 #### Email: gorarakelyan152@gmail.com  
 #### Phone number: +34 631 873 948
 #### Linkedin: https://www.linkedin.com/in/gor-arakelyan-13916a3b6/
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
