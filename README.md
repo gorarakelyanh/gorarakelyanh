@@ -93,8 +93,10 @@ Throughout my studies, I have gained knowledge and worked on projects involving:
 - Database Fundamentals  
 - Technical Support and IT Troubleshooting  
 ##
-
-
+### 📫 Contact Me
+#### Email: gorarakelyan152@gmail.com  
+#### Phone number: +34 631 873 948
+#### Linkedin: https://www.linkedin.com/in/gor-arakelyan-13916a3b6/
 
 
 
