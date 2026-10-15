@@ -7,12 +7,12 @@ I'm currently a Microcomputer Systems and Networks (SMX) student with a strong i
 
 I'm passionate about learning how video games are created, from programming and game mechanics to design and the technologies behind them. I'm looking forward to expanding my knowledge and exploring new opportunities in the world of game development.
 
-🎓 Currently studying Microcomputer Systems and Networks (SMX)
-🎮 Passionate about video game development
-🌱 Interested in learning about game engines, programming, and game design
-💻 Exploring different technologies and tools
-🚀 Looking forward to developing my own games and improving my skills
-📚 Always learning something new
+🎓 Currently studying Microcomputer Systems and Networks (SMX)  
+🎮 Passionate about video game development  
+🌱 Interested in learning about game engines, programming, and game design  
+💻 Exploring different technologies and tools  
+🚀 Looking forward to developing my own games and improving my skills  
+📚 Always learning something new  
 
 ##
 ### 🛠️ Skills
